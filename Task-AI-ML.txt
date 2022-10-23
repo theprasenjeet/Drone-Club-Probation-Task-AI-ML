@@ -1,0 +1,14 @@
+*********Task*********
+
+Mapping of hotspots/zones where a particular crime is more prevalent.
+
+(Indian Penal Code): 121, 141, 144, 146, 147, 148, 151, 153-A, 295-A, 268, 302, 304-B, 307, 322, 324, 351, 354, 509, 498-A, 363, 364, 365, 366, 376, 379, 380, 383, 390, 391, 392,395, 396, 397,411, 420, 441, 442, 447,448,454, 457, 465, 467,468,470,471, 489-A, 504,506
+(NDPS act): 20,21,22
+(Gambling act): 13
+(Arms act): 25
+(Excise act): 60, 60 (2), 72
+(Cow Protection): 3,5,11
+(SC/ST act): 3
+(Mineral and Mining act): 4,21
+(Immoral Traffic Prevention act): 3,4,5
+(Goonda act): 3
